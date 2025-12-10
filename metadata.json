@@ -1,0 +1,5 @@
+{
+  "name": "Safari Inspector Stress Test",
+  "description": "A diagnostic tool specifically designed to reproduce Safari Remote Web Inspector crashes via window.open behaviors.",
+  "requestFramePermissions": []
+}
